@@ -16,8 +16,7 @@ body {
   background-size: cover;
   min-height: 85vh;
   padding: 3rem;
-  text-align: center;
-}
+  }
 
 .banner-text {
   display: inline-block;
