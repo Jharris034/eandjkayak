@@ -14,7 +14,7 @@ body {
 .banner{
   background: url('../images/lakejames.jpeg');
   background-size: cover;
-  min-height: 50vh;
+  min-height: 85vh;
   padding: 3rem;
   text-align: right;
 }
@@ -25,7 +25,5 @@ body {
   padding: 3rem;
   font-size: 3.5rem;
   width: auto;
-  color: #000000;
-  border: 15px double #000000;
-  background: rgb(23.1%,19.2%,100%);
+  color:#ffffff 
   
