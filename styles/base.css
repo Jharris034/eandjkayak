@@ -9,3 +9,11 @@ body {
   border: 1rem solid #3b31ff;
   margin: 0;
 }
+
+.banner{
+  background: url('../images/lakejames.jpg');
+  background-size: cover;
+  min-height: 50vh;
+  padding: 3rem;
+  text-align: right;
+}
