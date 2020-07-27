@@ -12,7 +12,7 @@ body {
 }
 
 .banner{
-  background: url('../images/lakejames.jpg');
+  background: url('../images/lakejames.jpeg');
   background-size: cover;
   min-height: 50vh;
   padding: 3rem;
